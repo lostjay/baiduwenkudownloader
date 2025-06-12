@@ -16,6 +16,10 @@ For complete source code access, please contact the author at: lostjaychi@gmail.
 - Support for various document formats
 - Asynchronous processing for better performance
 
+## Demo Video
+
+Watch the demo video on Bilibili: [Baidu Wenku Downloader Demo](https://www.bilibili.com/video/BV1FhMnzwEeK)
+
 ## How to Find Document ID
 
 The document ID is a unique identifier in the Baidu Wenku URL. For example, in the URL:

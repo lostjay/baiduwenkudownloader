@@ -14,6 +14,10 @@
 - 支持多种文档格式
 - 异步处理提升性能
 
+## 演示视频
+
+观看 B 站演示视频：[百度文库下载器演示](https://www.bilibili.com/video/BV1FhMnzwEeK)
+
 ## 如何查找文档 ID
 
 文档 ID 是百度文库 URL 中的唯一标识符。例如，在 URL：
