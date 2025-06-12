@@ -4,7 +4,9 @@
 
 ## 官方网站
 
-官方网站：https://lostjay.xyz/gitea/github/baiduwenkudownloader
+官方网站：[Gitea 仓库](https://lostjay.xyz/gitea/github/baiduwenkudownloader)
+
+GitHub 镜像：[GitHub 仓库](https://github.com/lostjay/baiduwenkudownloader)
 
 如需获取完整源代码，请联系作者：lostjaychi@gmail.com
 

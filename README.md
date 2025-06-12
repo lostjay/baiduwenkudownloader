@@ -6,7 +6,9 @@ A self-developed tool for downloading documents from Baidu Wenku (百度文库),
 
 ## Official Website
 
-Official website: https://lostjay.xyz/gitea/github/baiduwenkudownloader
+Official website: [Gitea Repository](https://lostjay.xyz/gitea/github/baiduwenkudownloader)
+
+GitHub mirror: [GitHub Repository](https://github.com/lostjay/baiduwenkudownloader)
 
 For complete source code access, please contact the author at: lostjaychi@gmail.com
 
