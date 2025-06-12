@@ -6,7 +6,7 @@
 
 官方网站：https://lostjay.xyz/gitea/github/baiduwenkudownloader
 
-如需获取源代码，请联系作者：lostjaychi@gmail.com
+如需获取完整源代码，请联系作者：lostjaychi@gmail.com
 
 ## 功能特点
 

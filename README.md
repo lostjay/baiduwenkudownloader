@@ -8,7 +8,7 @@ A self-developed tool for downloading documents from Baidu Wenku (百度文库),
 
 Official website: https://lostjay.xyz/gitea/github/baiduwenkudownloader
 
-For source code access, please contact the author at: lostjaychi@gmail.com
+For complete source code access, please contact the author at: lostjaychi@gmail.com
 
 ## Features
 
