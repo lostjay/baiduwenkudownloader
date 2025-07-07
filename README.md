@@ -32,6 +32,16 @@ The document ID is: `1898f455874769eae009581b6bd97f192279bff4`
 
 You can find this ID in the URL of any Baidu Wenku document page. It's the string of characters between `/view/` and `.html` in the URL.
 
+## Test API
+
+A test API endpoint is available for testing PDF downloads:
+
+```
+https://lostjay.xyz/api/get_pdf?doc_id=6bb03e2669dc5022aaea00e5
+```
+
+**Important Note**: Only one PDF can be processed at a time. If the server is busy, you may receive a "Server is busy, please try again later" response.
+
 ## Prerequisites
 
 - Python 3.11 or higher

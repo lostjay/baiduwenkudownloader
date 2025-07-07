@@ -30,6 +30,16 @@ https://wenku.baidu.com/view/1898f455874769eae009581b6bd97f192279bff4.html
 
 您可以在任何百度文库文档页面的 URL 中找到此 ID。它是 URL 中 `/view/` 和 `.html` 之间的字符串。
 
+## 测试 API
+
+提供测试 API 端点用于测试 PDF 下载：
+
+```
+https://lostjay.xyz/api/get_pdf?doc_id=6bb03e2669dc5022aaea00e5
+```
+
+**重要提示**：同一时间只能处理一个 PDF。如果服务器繁忙，您可能会收到"Server is busy, please try again later"的响应。
+
 ## 环境要求
 
 - Python 3.11 或更高版本
