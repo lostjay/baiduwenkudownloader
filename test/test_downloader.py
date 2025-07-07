@@ -80,7 +80,9 @@ class TestBaiduWenkuDownloader(IsolatedAsyncioTestCase):
         from time import strftime
         from uvicorn import run
         from asyncio import Event
+        from baiduwenkudownloader.downloader import BaiduWenkuDownloader
         
+        BaiduWenkuDownloader.node_server = 'http://10.13.13.2:17020'
         handling = Event()
         app = FastAPI()
         
