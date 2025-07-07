@@ -82,7 +82,7 @@ class TestBaiduWenkuDownloader(IsolatedAsyncioTestCase):
         from asyncio import Event
         from baiduwenkudownloader.downloader import BaiduWenkuDownloader
         
-        BaiduWenkuDownloader.node_server = 'http://10.13.13.2:17020'
+        BaiduWenkuDownloader.node_server = 'http://172.29.124.22:17020/generate_pdf'
         handling = Event()
         app = FastAPI()
         
