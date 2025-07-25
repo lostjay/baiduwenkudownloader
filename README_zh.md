@@ -98,9 +98,3 @@ python -m unittest test_downloader -k test_get_pdf
 ## 许可证
 
 ISC License
-
-## 请作者喝杯奶茶
-
-如果您觉得这个项目有帮助，欢迎通过微信支付请作者喝杯奶茶！
-
-![微信支付二维码](https://lostjay.xyz/wechatpay) 

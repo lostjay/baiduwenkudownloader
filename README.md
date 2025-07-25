@@ -101,8 +101,3 @@ This project is for educational and research purposes only. Users are responsibl
 
 ISC License
 
-## Buy Me a Milk Tea
-
-If you find this project helpful, feel free to buy the author a milk tea via WeChat Pay!
-
-![WeChat Pay QR Code](https://lostjay.xyz/wechatpay)
